@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v11-informational)
-![](https://img.shields.io/badge/Rondo-v1.2-blue)
+![](https://img.shields.io/badge/Rondo-v1.2-green)
 
 # Demo Git Repository
 
