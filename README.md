@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Foundry-v11-informational)
+![Latest Release Download Count](https://img.shields.io/github/downloads/justinross/foundry-bitd-alternate-sheets/latest/module.zip)
+
 # Demo Git Repository
 
 This is the first file in this repo.
