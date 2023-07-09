@@ -1,3 +1,13 @@
+![](https://img.shields.io/badge/Foundry-v1-informational)
+![](https://img.shields.io/badge/Foundry-v2-informational)
+![](https://img.shields.io/badge/Foundry-v3-informational)
+![](https://img.shields.io/badge/Foundry-v4-informational)
+![](https://img.shields.io/badge/Foundry-v5-informational)
+![](https://img.shields.io/badge/Foundry-v6-informational)
+![](https://img.shields.io/badge/Foundry-v7-informational)
+![](https://img.shields.io/badge/Foundry-v8-informational)
+![](https://img.shields.io/badge/Foundry-v9-informational)
+![](https://img.shields.io/badge/Foundry-v10-informational)
 ![](https://img.shields.io/badge/Foundry-v11-informational)
 
 # Demo Git Repository
